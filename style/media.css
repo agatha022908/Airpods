@@ -1,0 +1,224 @@
+@media(max-width:1120px){
+    .button__item-3{
+        flex-direction:column;
+        row-gap: 20px;
+    }
+    .button__text-3{
+        padding-top: 30px;
+    }
+    .button__text-4 {
+        padding-top: 25px;
+    }
+}
+@media(max-width:929px){
+    .button__img-3 {
+        width: 200px;
+    }
+    .button__text-3 {
+        padding-top: 15px;
+    }
+    .button__img {
+        width: 300px;
+    }
+    .button__text {
+        font-size: 18px;
+    }
+    .section__title{
+        font-size: 87px;
+    }
+    .section__btn{
+        width: 170px;
+        font-size: 16px;
+    }
+    .section__btn{
+        justify-content: center;
+    }
+  
+}
+@media(max-width:887px){
+    .iphone__item{
+        width: 100%;
+    }
+    .iphone__content{
+        justify-content: center;
+    }
+}
+@media(max-width:768px){
+    .header__icon {
+        margin-right: 20px;
+    }
+    .iphone__content{
+        justify-content: center;
+    }
+    .footer{
+        padding-top: 18px;
+            padding-bottom: 18px;
+    }
+}
+@media(max-width:612px){
+    .section__title {
+        font-size: 70px;
+    }
+}
+@media(max-width:560px){
+    .footer__content{
+        flex-wrap: wrap;
+        row-gap: 15px;
+    }
+}
+@media(max-width:560px){
+    .section__title {
+        font-size: 60px;
+    }
+    .header__nav{
+        column-gap: 20px;
+    }
+    .button__text {
+        font-size: 16px;
+    }
+    .button__text-3,
+    .button__text-4 {
+        margin-left: 30px;
+        text-align: center;
+        font-size: 16px;
+    }
+}
+@media(max-width:570px){
+    .iphone__item{
+        width: 100%;
+        padding: 18px 16px;
+        
+    }
+    
+}
+@media(max-width:425px){
+    .nav{
+        flex-wrap: wrap;
+    }
+    .footer{
+        padding: 0;
+        margin-bottom: 0px;
+    }
+    .iphone__item{
+        width: 400px;
+    }
+    .header__nav {
+        column-gap: 10px;
+    }
+    .button__text {
+        font-size: 13px;
+        min-width: 222px;
+    }
+    .button__img {
+        width: 222px;
+    }
+    .button__img-3 {
+        width: 150px;
+    }
+    .header__title {
+        line-height: 0px;
+        font-size: 17px;
+    }
+    .header__icon{
+        margin-top: 10px;
+    }
+    .section__title {
+        font-size: 36px;
+    }
+    .section__btn{
+        padding: 7px;
+        height: 37px;
+        top: 69px;
+        width: 115px;
+        font-size: 10px;
+        }
+    }
+    .footer{
+        padding-bottom: 0;
+    }
+    .section__title {
+        font-size: 48px;
+    }
+    .iphone {
+        margin-bottom: 0px;
+    }
+    .section__btn {
+        width: 139px;
+        font-size: 12px;
+    }
+    .section__btn {
+        margin-top: -6px;
+    }
+    .header__icon {
+        margin-right:4px;
+    }
+    .button__item-text{
+        width: 200px;
+    }
+    .header__title{
+        line-height: 12px;
+    font-size: 16px;
+    }
+    .button__text-3{
+        font-size: 13px;
+        margin-left: 0px;
+    }
+    .button__text-4 {
+        margin-left:-78px;
+        font-size: 13px;
+    }
+    @media(max-width:450px){
+        .button__text-4{
+            width: 300px;
+        }
+    }
+    @media(max-width:321px){
+        .nav{
+            flex-wrap: wrap;
+        }
+    }
+    @media(max-width:321px){
+        .nav{
+            flex-wrap: wrap;
+        }
+        .header__title {
+            font-size: 14px;
+        }
+    }
+    @media(max-width:519px){
+        .iphone__item{
+            width: 400px;
+        }
+    }
+    @media(max-width:337px){
+        .section__title {
+            font-size: 44px;
+        }
+    }
+    @media(max-width:320px){
+        .header__title{
+            font-size: 16px;
+            padding-left: 5px;   
+        }
+        .section__title {
+            font-size: 44px;
+        }
+        .section__btn {
+            width: 103px;
+            font-size: 10px;
+            margin-top: -6px;
+            padding: 4px;
+            height: 33px;
+        }
+        .header__icon {
+            margin-right:4px;
+        }
+      
+        .header__nav {
+            flex-wrap: wrap;
+            row-gap: 15px;
+        }
+        .iphone{
+            margin: 0px;
+        }
+    }
